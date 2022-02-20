@@ -4,7 +4,7 @@
     "logo":"https://telegra.ph/file/29a269dbbfa0dac35786d.jpg",
     "keywords": ["xray"],
     "env": {
-        "UUID": {"6196c171-410c-4275-9215-1275f6eccf3b"
+        "UUID": {"6196c171-410c-4275-9215-1275f6eccf3b",
             "description": "Xray UUID,You can generate new UUID using this website (https://www.uuidgenerator.net/) ",
             "required": true        
         }
